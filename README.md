@@ -40,7 +40,7 @@ All the following code samples assume that Zippy is loaded and available as `$zi
 ```
 <?php
 
-use Alchemy\Zippy\Zippy;
+use Jarodxxx\Zippy\Zippy;
 
 // Require Composer's autoloader
 require __DIR__ . '/vendor/autoload.php';
