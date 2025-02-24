@@ -29,12 +29,12 @@ class GenericTeleporter implements TeleporterInterface
     /**
      * @param ResourceReaderFactory $readerFactory
      * @param ResourceWriter        $resourceWriter
-     * @param ResourceLocator       $resourceLocator
+     * @param ResourceLocator|null  $resourceLocator
      */
     public function __construct(
         ResourceReaderFactory $readerFactory,
         ResourceWriter $resourceWriter,
-        ResourceLocator $resourceLocator = null
+        ?ResourceLocator $resourceLocator = null
     ) {
         $this->readerFactory = $readerFactory;
         $this->resourceWriter = $resourceWriter;
