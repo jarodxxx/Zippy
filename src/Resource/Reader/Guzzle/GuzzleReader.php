@@ -9,7 +9,7 @@ use GuzzleHttp\ClientInterface;
 class GuzzleReader implements ResourceReader
 {
     /**
-     * @var ClientInterface
+     * @var ClientInterface|null
      */
     private $client;
 
