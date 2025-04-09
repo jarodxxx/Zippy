@@ -4,7 +4,7 @@
 [![Packagist](https://img.shields.io/packagist/v/alchemy/zippy.svg?style=flat-square)](https://packagist.org/packages/alchemy/zippy)
 [![Travis](https://img.shields.io/travis/alchemy-fr/Zippy.svg?style=flat-square)](https://travis-ci.org/alchemy-fr/Zippy)
 [![Scrutinizer](https://img.shields.io/scrutinizer/g/alchemy-fr/Zippy.svg?style=flat-square)](https://scrutinizer-ci.com/g/alchemy-fr/Zippy/)
-[![Packagist](https://img.shields.io/packagist/dt/alchemy/zippy.svg?style=flat-square)](https://packagist.org/packages/alchemy/zippy/stats)
+[![Packagist](https://img.shields.io/packagist/dt/jarodxxx/zippy.svg?style=flat-square)](https://packagist.org/packages/jarodxxx/zippy/stats)
 
 A PHP library to read, create, and extract archives in various formats via command line utilities or PHP extensions
 
