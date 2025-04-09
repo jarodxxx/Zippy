@@ -13,7 +13,7 @@ A PHP library to read, create, and extract archives in various formats via comma
 The only supported installation method is via [Composer](https://getcomposer.org). Run the following command to require Zippy in your project:
 
 ```
-composer require Jarodxxx/zippy
+composer require jarodxxx/zippy
 ```
 
 ## Adapters
@@ -40,7 +40,7 @@ All the following code samples assume that Zippy is loaded and available as `$zi
 ```
 <?php
 
-use Jarodxxx\Zippy\Zippy;
+use jarodxxx\Zippy\Zippy;
 
 // Require Composer's autoloader
 require __DIR__ . '/vendor/autoload.php';
